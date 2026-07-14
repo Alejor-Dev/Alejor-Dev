@@ -2,9 +2,23 @@
 
 <img width="400" height="300" alt="221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c" src="https://github.com/user-attachments/assets/2df4ce4f-926c-4f08-a5dd-8a77683444e7" />
 
-## 👋 Hola, soy Alejo
+<!-- Cabecera alineada horizontalmente -->
+<p align="left">
+  <span style="font-size: 2.5em; font-weight: bold; margin-right: 10px;">
+    # 👋 Hola, soy Alejo
+  </span>
+  <img src="URL_DEL_NUEVO_GIF_AQUI" width="50" height="50" alt="Icono animado de Alejo" style="vertical-align: middle;" />
+</p>
 
-Soy estudiante de 4er año de Ingeniería en Informática, con un fuerte enfoque en el desarrollo Backend, automatización de flujos de trabajo y administración de bases de datos.
+<!-- Tu descripción -->
+Backend Engineer, passionate about automation, and 3rd-year CS student.
+
+<!-- Texto animado dynamic (Typewriter) -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=600&lines=Desarrollador+Backend;Pasión+por+la+Automatización;Python+%26+Node.js;" alt="Typing SVG" />
+</p>
+
+<!-- El resto de tus secciones (redes, tecnologías, etc.) siguen aquí abajo -->
 
 ### 💻 Tecnologías y Herramientas
 
