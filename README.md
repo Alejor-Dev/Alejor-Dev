@@ -1,5 +1,6 @@
 <img width="1000" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" />
 
+<img width="400" height="300" alt="221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c" src="https://github.com/user-attachments/assets/2df4ce4f-926c-4f08-a5dd-8a77683444e7" />
 
 ## 👋 Hola, soy Alejo
 
