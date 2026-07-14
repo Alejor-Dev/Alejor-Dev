@@ -1,5 +1,7 @@
 <p align="center">
   <img src="<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/86cb198d-36f1-44d9-b19b-e775dc7bc28f" />
+
+  
 " width="400" alt="Mi GIF" />
 </p>
 
