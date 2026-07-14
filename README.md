@@ -1,6 +1,6 @@
-## 👋 Hola, soy [Tu Nombre]
+## 👋 Hola, soy Alejo
 
-Soy estudiante de 3er año de Ingeniería en Informática, con un fuerte enfoque en el desarrollo Backend, automatización de flujos de trabajo y administración de bases de datos.
+Soy estudiante de 4er año de Ingeniería en Informática, con un fuerte enfoque en el desarrollo Backend, automatización de flujos de trabajo y administración de bases de datos.
 
 ### 💻 Tecnologías y Herramientas
 
