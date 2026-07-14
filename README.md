@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="<img width="1900" height="684" alt="g" src="<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/c41dbbe4-dc2e-4154-bff7-8ff38961d0b7" />
-" />
-
-  
+  <!-- Asegúrate de que el nombre coincida exactamente, incluyendo mayúsculas o minúsculas -->
+  <img src="<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/ff91909d-cc51-4b4b-89b6-94a2212c965b" />
 " width="400" alt="Mi GIF" />
 </p>
 
