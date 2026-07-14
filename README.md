@@ -66,3 +66,4 @@ Backend Engineer, passionate about automation, and 3rd-year CS student.
   <!-- Docker (Ejemplo de otra herramienta) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
+<img width="468" height="40" alt="212284158-e8+}40e285-664b-44d7-b79b-e264b5e54825" src="https://github.com/user-attachments/assets/5d75b290-db0a-41c6-b792-53a27db84657" />
