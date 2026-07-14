@@ -1,8 +1,5 @@
-<p align="center">
-  <!-- Asegúrate de que el nombre coincida exactamente, incluyendo mayúsculas o minúsculas -->
-  <img src="<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/ff91909d-cc51-4b4b-89b6-94a2212c965b" />
-" width="400" alt="Mi GIF" />
-</p>
+<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" />
+
 
 ## 👋 Hola, soy Alejo
 
