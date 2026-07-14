@@ -7,6 +7,7 @@ Soy estudiante de 4er año de Ingeniería en Informática, con un fuerte enfoque
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=600&lines=Estudiante+de+Ingenieria+en+Informatica;Desarrollador+Backend;Apasionado+por+la+Automatizacion" alt="Typing SVG" />
 </p>
+![Texto alternativo para accesibilidad](https://enlace-a-tu-gif.com/imagen.gif)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
