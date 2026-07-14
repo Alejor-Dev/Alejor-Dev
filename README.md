@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hola, soy [Tu Nombre]
 
-<!--
-**Alejor-Dev/Alejor-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de 3er año de Ingeniería en Informática, con un fuerte enfoque en el desarrollo Backend, automatización de flujos de trabajo y administración de bases de datos.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+</p>
+
+### 📊 Mis Estadísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
