@@ -1,4 +1,4 @@
-<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" />
+<img width="1000" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" />
 
 
 ## 👋 Hola, soy Alejo
