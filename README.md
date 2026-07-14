@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="<img width="1900" height="684" alt="gifpc" src="https://github.com/user-attachments/assets/86cb198d-36f1-44d9-b19b-e775dc7bc28f" />
+" width="400" alt="Mi GIF" />
+</p>
+
 ## 👋 Hola, soy Alejo
 
 Soy estudiante de 4er año de Ingeniería en Informática, con un fuerte enfoque en el desarrollo Backend, automatización de flujos de trabajo y administración de bases de datos.
