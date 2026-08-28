@@ -16,7 +16,7 @@
 
 - 💻 **Backend Engineer** con experiencia en desarrollo de APIs y servicios.
 - 🤖 Apasionado por la **automatización** de procesos.
-- 🎓 Cursando **Ingeniería en Informática** (3er año), combinando teoría con proyectos reales.
+- 🎓 **Ingeniero en Informática**, combinando teoría con proyectos reales.
 - 🐍 Stack principal: **Python** & **Node.js**.
 
 ---
