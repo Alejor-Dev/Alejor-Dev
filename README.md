@@ -27,10 +27,10 @@
 
 ### Stack Tecnológico
 
-Los iconos aparecen animados al cargar tu perfil.
+Los iconos se animan al cargar tu perfil.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alejor-Dev/Alejor-Dev/main/stack-animated.svg" alt="Stack Tecnológico Animado" width="720"/>
+  <img src="https://raw.githubusercontent.com/Alejor-Dev/Alejor-Dev/main/stack-animated.gif" alt="Stack Tecnológico Animado" width="720"/>
 </p>
 
 ---
