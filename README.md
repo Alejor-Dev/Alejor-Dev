@@ -5,10 +5,10 @@
 
 # 👋 ¡Hola! Soy Alejo
 
-### 🚀 Backend Engineer · Automatización · Estudiante de CS
+### 🚀 Backend Engineer · Automatización · Estudiante de Informática
 
-Desarrollador Backend apasionado por la **automatización** y el desarrollo de sistemas escalables.
-Me encanta construir soluciones eficientes que resuelvan problemas reales.
+> Backend engineer **convirtiendo procesos en código**.
+> Transformo tareas repetitivas en automatizaciones y construyo sistemas escalables que resuelven problemas reales.
 
 ---
 
@@ -16,7 +16,7 @@ Me encanta construir soluciones eficientes que resuelvan problemas reales.
 
 - 💻 **Backend Engineer** con experiencia en desarrollo de APIs y servicios.
 - 🤖 Apasionado por la **automatización** de procesos.
-- 🎓 **Estudiante de 3er año** de Ingeniería en Informática.
+- 🎓 Cursando **Ingeniería en Informática** (3er año), combinando teoría con proyectos reales.
 - 🐍 Stack principal: **Python** & **Node.js**.
 
 ---
