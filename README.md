@@ -3,48 +3,55 @@
   <img src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" alt="Banner" width="100%"/>
 </p>
 
-# 👋 ¡Hola! Soy Alejo
+# ¡Hola! Soy Alejo
 
-### 🚀 Backend Engineer · Automatización · Estudiante de Informática
+### Backend Engineer · Automatización · Ingeniero en Informática
 
 > Backend engineer **convirtiendo procesos en código**.
-> Transformo tareas repetitivas en automatizaciones y construyo sistemas escalables que resuelven problemas reales.
+
+<!-- Texto animado tipo máquina de escribir -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&width=620&lines=Convierto+procesos+repetitivos+en+c%C3%B3digo;Construyo+sistemas+escalables;Transformo+ideas+en+soluciones+reales" alt="Typing SVG" />
+</p>
 
 ---
 
-### ✨ Sobre mí
+### Sobre mí
 
-- 💻 **Backend Engineer** con experiencia en desarrollo de APIs y servicios.
-- 🤖 Apasionado por la **automatización** de procesos.
-- 🎓 **Ingeniero en Informática**, combinando teoría con proyectos reales.
-- 🐍 Stack principal: **Python** & **Node.js**.
+- **Backend Engineer** con experiencia en desarrollo de APIs y servicios.
+- Apasionado por la **automatización** de procesos.
+- **Ingeniero en Informática**, combinando teoría con proyectos reales.
+- Stack principal: **Python** & **Node.js**.
 
 ---
 
-### 💻 Lenguajes y Herramientas
+### Lenguajes y Herramientas
 
 **Lenguajes:**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
 **Frameworks y Bases de Datos:**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 </p>
 
 **Herramientas:**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
@@ -52,16 +59,21 @@
 
 ---
 
-### 📊 Mis Estadísticas
+### Mis Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejor-Dev&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejor-Dev&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejor-Dev&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejor-Dev&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<!-- Gráfico de contribuciones animado -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejor-Dev&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" width="95%"/>
 </p>
 
 ---
 
-### 🌐 Conéctate conmigo
+### Conéctate conmigo
 
 <p align="left">
   <a href="TU_LINK_DE_LINKEDIN" target="_blank">
@@ -77,4 +89,4 @@
 
 ---
 
-⭐ *Gracias por visitar mi perfil!*
+*Gracias por visitar mi perfil.*
