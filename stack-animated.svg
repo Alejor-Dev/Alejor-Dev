@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="300" viewBox="0 0 720 300">
+  <style>
+    .label { font-family: 'Fira Code', monospace; font-size: 12px; fill: #8892b0; text-anchor: middle; }
+    .title { font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; fill: #ccd6f6; }
+  </style>
+
+  <text x="360" y="24" class="title" text-anchor="middle">STACK TECNOLÓGICO</text>
+
+  <!-- Python -->
+  <g transform="translate(90, 80)">
+    <animateTransform attributeName="transform" type="translate" from="90 120" to="90 80" begin="0s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">Python</text>
+  </g>
+
+  <!-- JavaScript -->
+  <g transform="translate(170, 80)">
+    <animateTransform attributeName="transform" type="translate" from="170 120" to="170 80" begin="0.15s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">JavaScript</text>
+  </g>
+
+  <!-- TypeScript -->
+  <g transform="translate(250, 80)">
+    <animateTransform attributeName="transform" type="translate" from="250 120" to="250 80" begin="0.3s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">TypeScript</text>
+  </g>
+
+  <!-- Java -->
+  <g transform="translate(330, 80)">
+    <animateTransform attributeName="transform" type="translate" from="330 120" to="330 80" begin="0.45s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">Java</text>
+  </g>
+
+  <!-- Go -->
+  <g transform="translate(410, 80)">
+    <animateTransform attributeName="transform" type="translate" from="410 120" to="410 80" begin="0.6s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" x="-32" y="-32" width="64" height="64"/>
+    <text x="0" y="42" class="label">Go</text>
+  </g>
+
+  <!-- C -->
+  <g transform="translate(490, 80)">
+    <animateTransform attributeName="transform" type="translate" from="490 120" to="490 80" begin="0.75s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">C</text>
+  </g>
+
+  <!-- C++ -->
+  <g transform="translate(570, 80)">
+    <animateTransform attributeName="transform" type="translate" from="570 120" to="570 80" begin="0.9s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">C++</text>
+  </g>
+
+  <!-- Bash -->
+  <g transform="translate(650, 80)">
+    <animateTransform attributeName="transform" type="translate" from="650 120" to="650 80" begin="1.05s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">Bash</text>
+  </g>
+
+  <!-- Node.js -->
+  <g transform="translate(160, 200)">
+    <animateTransform attributeName="transform" type="translate" from="160 240" to="160 200" begin="1.2s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" x="-30" y="-30" width="60" height="60"/>
+    <text x="0" y="42" class="label">Node.js</text>
+  </g>
+
+  <!-- NestJS -->
+  <g transform="translate(260, 200)">
+    <animateTransform attributeName="transform" type="translate" from="260 240" to="260 200" begin="1.35s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">NestJS</text>
+  </g>
+
+  <!-- Express -->
+  <g transform="translate(360, 200)">
+    <animateTransform attributeName="transform" type="translate" from="360 240" to="360 200" begin="1.5s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">Express</text>
+  </g>
+
+  <!-- SQL Server -->
+  <g transform="translate(460, 200)">
+    <animateTransform attributeName="transform" type="translate" from="460 240" to="460 200" begin="1.65s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">SQL Server</text>
+  </g>
+
+  <!-- MongoDB -->
+  <g transform="translate(560, 200)">
+    <animateTransform attributeName="transform" type="translate" from="560 240" to="560 200" begin="1.8s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" x="-32" y="-32" width="64" height="64"/>
+    <text x="0" y="42" class="label">MongoDB</text>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(660, 200)">
+    <animateTransform attributeName="transform" type="translate" from="660 240" to="660 200" begin="1.95s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">Git</text>
+  </g>
+
+  <!-- Docker -->
+  <g transform="translate(90, 200)">
+    <animateTransform attributeName="transform" type="translate" from="90 240" to="90 200" begin="2.1s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.6s" fill="freeze"/>
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" x="-25" y="-25" width="50" height="50"/>
+    <text x="0" y="42" class="label">Docker</text>
+  </g>
+</svg>
