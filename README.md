@@ -57,6 +57,7 @@ Actualmente trabajo con tecnologías frontend y backend, bases de datos, herrami
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frameworks y librerías
 
@@ -88,6 +89,11 @@ Actualmente trabajo con tecnologías frontend y backend, bases de datos, herrami
 ![AI Agents](https://img.shields.io/badge/Agentes_de_IA-7C3AED?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automatización-FF6F00?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+
+### Otros intereses
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 ## Proyectos destacados
 
