@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" alt="Banner de Alejo Rodríguez" width="100%" />
 </p>
 
-<h1 align="center">¡Hola! Soy Alejo Rodríguez 👋</h1>
+<h1 align="center">¡Hola! Soy Alejo Rodríguez 🐱‍👤</h1>
 
 <p align="center">
   <strong>Desarrollador Full-Stack · Backend · Automatización · Inteligencia Artificial</strong>
