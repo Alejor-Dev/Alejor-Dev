@@ -1,6 +1,7 @@
+
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a30dd7f-7046-427e-885e-551822985b12" alt="Banner de Alejo Rodríguez" width="100%" />
+  <img src="https://github.com/user-attachments/assets/9179b934-5cdc-4b2c-96e5-50b22dcb6cb3" alt="Banner de Alejo Rodríguez" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy Alejo Rodríguez 🐱‍👤</h1>
